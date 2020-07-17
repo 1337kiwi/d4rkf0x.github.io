@@ -2775,6 +2775,7 @@
             background-color: #006492;
             box-shadow: none;
             color: #ffffff !important;
+            padding: 0em 2.25em;
         }
 
             input[type="submit"].special:hover,
